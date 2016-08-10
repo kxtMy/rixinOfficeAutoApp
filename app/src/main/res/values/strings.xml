@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RsGsonVolley</string>
+    <string name="RsURL"></string>
+    <string name="BoardURL">http://</string>
+</resources>
